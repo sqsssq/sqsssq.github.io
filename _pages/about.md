@@ -15,44 +15,146 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+# Welcome, I am Qing Shi (石青).
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I obtained my B.Eng. degree from School of Information Management and Artificial Intelligence, Zhejiang University of Finance and Economics, supervised by Prof. Zhiguang Zhou and Prof. Yuhua Liu.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research areas include Data Visualization (DV) and Human-Computer Interaction (HCI). When I was a freshman, I joined in ZUFE VIG, supervised by Prof. Zhiguang Zhou, to learn Visualization. In three years, I worked on four visualization projects. My work includes System production, Backend construction, data analysis, algorithm research and paper writing.
+
+I'm a good programer. And I love exploring the unknown.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+
+<div class="news-div has-news-scrollbar" style="overflow-y: auto; height: 200px;">
+    <ul class="news-list">
+        <li class="news-item">
+            <span class="news-date">[2024/05]</span>
+            <span class="news-content">🎉Our paper <span style="font-style: italic;">'NFTracer: Tracing NFT Impact Dynamics in Transaction-flow Substitutive Systems with Visual Analytics'</span>&nbsp; is accepted to IEEE TVCG!</span>
+            </li>
+        <li class="news-item">
+            <span class="news-date">[2023/12]</span>
+            <span class="news-content">I left HKUST-CIVAL and HKUST (GZ).</span>
+        </li>
+        <li class="news-item">
+            <span class="news-date">[2023/11]</span>
+            <span class="news-content">🎉Our paper <span style="font-style: italic;">'MetroBUX: A Topology-Based Visual Analytics for Bus Operational Uncertainty EXploration'</span>&nbsp; is accepted to IEEE T-ITS!</span>
+        </li>
+        <li class="news-item">
+            <span class="news-date">[2023/09]</span>
+            <span class="news-content">🎉Our paper <span style="font-style: italic;">'Does Where You are Matter? A Visual Analytics System for COVID-19 Transmission Based on Social Hierarchical Perspective'</span>&nbsp; is accepted to VINCI 2023!</span>
+        </li>
+        <li class="news-item">
+            <span class="news-date">[2023/07]</span>
+            <span class="news-content">🎉Our paper <span style="font-style: italic;">'TimeTuner: Diagnosing Time Representations for Time-Series Forecasting with Counterfactual Explanations'</span>&nbsp; is accepted to IEEE VIS 2023!</span>
+        </li>
+        <li class="news-item">
+            <span class="news-date">[2022/09]</span>
+            <span class="news-content">🏆Our poster <span style="font-style: italic;">MetroBUX</span> got 'Best poster honorable mention' at ChinaVis 2022!</span>
+        </li>
+        <li class="news-item">
+            <span class="news-date">[2022/07]</span>
+            <span class="news-content">Starting my visualization journey as a Research Assistant @ HKUST-CIVAL with Prof. Wei Zeng!</span>
+        </li>
+        <li class="news-item">
+            <span class="news-date">[2022/06]</span>
+            <span class="news-content">🎉I obtained my B.Eng. @ZUFE!</span>
+        </li>
+    </ul>
+    </div>
 
 # 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+† - Equal Contribution   * - Corresponding Author(s)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG</div><img src='images/publication/NFTracer.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+**NFTracer: Tracing NFT Impact Dynamics In Transaction-Flow Substitutive Systems With Visual Analytics**
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Yifan Cao, **<u>Qing Shi</u>**, Lue Shen, Kani Chen, Yang Wang, Wei Zeng*, Huamin Qu
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+*IEEE Transactions on Visualization and Computer Graphics*, 2024, Accepted.
+
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">VIS</div><img src='images/publication/timetuner.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-# 🎖 Honors and Awards
+**TimeTuner: Diagnosing Time Representations for Time-Series Forecasting with Counterfactual Explanations**
+
+Jianing Hao, **<u>Qing Shi</u>**, Yilin Ye, Wei Zeng*
+
+*IEEE Transactions on Visualization and Computer Graphics (Proc. IEEE VIS 2023)*, 2024.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TITS</div><img src='images/publication/2023_MetroBux.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**MetroBUX: A Topology-based Visual Analytics for Bus Operational Uncertainty EXploration**
+
+Shishi Xiao&#8224;, **<u>Qing Shi</u>**&#8224;, Lingdan Shao, Bo Du, Yang Wang, Qiaomu Shen, Wei Zeng*
+
+*IEEE Transactions on Intelligent Transportation Systems*, 2024, Accepted.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">VINCI</div><img src='images/publication/vinci_cover.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Does Where You are Matter? A Visual Analytics System for COVID-19 Transmission Based on Social Hierarchical Perspective**
+
+Jianing Hao, Xibin Jiang, **<u>Qing Shi</u>**, Wei Zeng*
+
+*Proceedings of the 16th International Symposium on Visual Information Communication and Interaction (VINCI 2023)*, 2024.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">J. CAD&CG</div><img src='images/publication/EcoVis.jpeg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Visual Analysis of Economic Decision-Making and Wealth Change under Simulated Situation**
+
+Liu Yuhua, **<u>Shi Qing</u>**, Zheng Fengling, Xie Wanying, Han Shuhuan, Zhou Zhiguang*
+
+*Journal of Computer-Aided Design & Computer Graphics*, 2021 (Chinese).
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">FBN</div><img src='images/publication/tdcs.jpeg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Modulating the Activity of the VMPFC With tDCS Alters the Social Framing Effect**
+
+Yuyou Chen, Xinbo Lu, Ping Yu, Lulu Zeng, Hang Ye, **<u>Qing Shi</u>**, Wenmin Guo*
+
+*Frontiers in Behavioral Neuroscience*, 2021.
+
+</div>
+</div>
+
+<!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<!-- - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+- Zhejiang University of Finance & Economics, *2018.09 - 2022.06*.
+  - Bachlor of Engineering
+  - Major in Software Engineering
+  - Advised by Prof. Zhiguang Zhou and Prof. Yuhua Liu 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Research Experience
+- Research Assistant, *2022.7-2023.12*.
+  - The Hong Kong University of Science and Technology (Guangzhou), Computational Media and Arts Thrust
+  - Advised by Prof. Wei Zeng
+- Research Assistant, *2022.7-2023.6*.
+  - Chinese Academy of Science, Shenzhen Instisution of Advanced Technology
+  - Advised by Prof. Wei Zeng
