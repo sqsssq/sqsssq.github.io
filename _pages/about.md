@@ -24,6 +24,7 @@ My research areas include **Data Visualization (DV)**, **Visual Analytics (VA)**
 
 I'm a good programer. And I love exploring the unknown.
 
+<!-- **I am looking for Co-authors. If you have interesting in my Research Direction, please feel free to contact me via qshi118 (at) connect (dot) hkust-gz (dot) edu (dot) cn** -->
 
 # 🔥 News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -128,7 +129,7 @@ Liu Yuhua, **<u>Shi Qing</u>**, Zheng Fengling, Xie Wanying, Han Shuhuan, Zhou Z
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">FBN</div><img src='images/publication/tdcs.jpeg' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">FBN</div><img src='images/publication/tdcs.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Modulating the Activity of the VMPFC With tDCS Alters the Social Framing Effect**
@@ -138,7 +139,9 @@ Yuyou Chen, Xinbo Lu, Ping Yu, Lulu Zeng, Hang Ye, **<u>Qing Shi</u>**, Wenmin G
 *Frontiers in Behavioral Neuroscience*, 2021.
 
 </div>
-</div>
+</div> -->
+
+- [Modulating the Activity of the VMPFC With tDCS Alters the Social Framing Effect](), Yuyou Chen, Xinbo Lu, Ping Yu, Lulu Zeng, Hang Ye, **<u>Qing Shi</u>**, Wenmin Guo*, *Frontiers in Behavioral Neuroscience*, 2021.
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
