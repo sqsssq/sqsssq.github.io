@@ -5,6 +5,7 @@ from datetime import datetime
 import os
 
 author: dict = scholarly.search_author_id(os.environ['GOOGLE_SCHOLAR_ID'])
+# author: dict = scholarly.search_author_id('K7LwtK0AAAAJ')
 scholarly.fill(author, sections=['basics', 'indices', 'counts', 'publications'])
 name = author['name']
 author['updated'] = str(datetime.now())
