@@ -18,9 +18,8 @@ redirect_from:
 # Welcome, I am Qing Shi (石青).
 <span class='anchor' id='about-me'></span>
 
-I obtained my B.Eng. degree from School of Information Management and Artificial Intelligence, Zhejiang University of Finance and Economics, supervised by Prof. Zhiguang Zhou and Prof. Yuhua Liu.
-
-My research areas include Data Visualization (DV) and Human-Computer Interaction (HCI). When I was a freshman, I joined in ZUFE VIG, supervised by Prof. Zhiguang Zhou, to learn Visualization. In three years, I worked on four visualization projects. My work includes System production, Backend construction, data analysis, algorithm research and paper writing.
+I obtained my B.Eng. degree from School of Information Management and Artificial Intelligence, Zhejiang University of Finance and Economics. My research areas include **Data Visualization (DV)** and **Human-Computer Interaction (HCI)**.
+<a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'></span></strong></a>
 
 I'm a good programer. And I love exploring the unknown.
 
@@ -146,6 +145,9 @@ Yuyou Chen, Xinbo Lu, Ping Yu, Lulu Zeng, Hang Ye, **<u>Qing Shi</u>**, Wenmin G
 
 # 📖 Educations
 <!-- - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+- The Hong Kong University of Science and Technology (Guangzhou), *2024.09 - Present*.
+  - Master of Philosophy
+  - Major in Computational Media and Arts
 - Zhejiang University of Finance & Economics, *2018.09 - 2022.06*.
   - Bachlor of Engineering
   - Major in Software Engineering
