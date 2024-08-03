@@ -105,7 +105,7 @@ Shishi Xiao&#8224;, **<u>Qing Shi</u>**&#8224;, Lingdan Shao, Bo Du, Yang Wang, 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">VINCI</div><img src='images/publication/vinci_cover.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">VINCI</div><img src='images/publication/vinci_cover.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Does Where You are Matter? A Visual Analytics System for COVID-19 Transmission Based on Social Hierarchical Perspective**
@@ -115,7 +115,7 @@ Jianing Hao, Xibin Jiang, **<u>Qing Shi</u>**, Wei Zeng*
 *Proceedings of the 16th International Symposium on Visual Information Communication and Interaction (VINCI 2023)*, 2024.
 
 </div>
-</div>
+</div> -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">J. CAD&CG</div><img src='images/publication/EcoVis.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -140,8 +140,8 @@ Yuyou Chen, Xinbo Lu, Ping Yu, Lulu Zeng, Hang Ye, **<u>Qing Shi</u>**, Wenmin G
 
 </div>
 </div> -->
-
-- [Modulating the Activity of the VMPFC With tDCS Alters the Social Framing Effect](), Yuyou Chen, Xinbo Lu, Ping Yu, Lulu Zeng, Hang Ye, **<u>Qing Shi</u>**, Wenmin Guo*, *Frontiers in Behavioral Neuroscience*, 2021.
+- [Does Where You are Matter? A Visual Analytics System for COVID-19 Transmission Based on Social Hierarchical Perspective](), Jianing Hao, Xibin Jiang, **<u>Qing Shi</u>**, Wei Zeng\*, *Proceedings of the 16th International Symposium on Visual Information Communication and Interaction (VINCI 2023)*, 2024.
+- [Modulating the Activity of the VMPFC With tDCS Alters the Social Framing Effect](), Yuyou Chen, Xinbo Lu, Ping Yu, Lulu Zeng, Hang Ye, **<u>Qing Shi</u>**, Wenmin Guo\*, *Frontiers in Behavioral Neuroscience*, 2021.
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
