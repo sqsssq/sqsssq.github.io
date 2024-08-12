@@ -153,7 +153,7 @@ Yuyou Chen, Xinbo Lu, Ping Yu, Lulu Zeng, Hang Ye, **<u>Qing Shi</u>**, Wenmin G
   - Master of Philosophy
   - Major in Computational Media and Arts
 - Zhejiang University of Finance & Economics, *2018.09 - 2022.06*.
-  - Bachlor of Engineering
+  - Bachelor of Engineering
   - Major in Software Engineering
   - Advised by Prof. Zhiguang Zhou and Prof. Yuhua Liu 
 
