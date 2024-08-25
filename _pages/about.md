@@ -1,4 +1,3 @@
----
 permalink: /
 title: ""
 excerpt: ""
@@ -69,6 +68,7 @@ I'm a good programer. And I love exploring the unknown.
 
 # 📝 Publications 
 † - Equal Contribution   * - Corresponding Author(s)
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG</div><img src='images/publication/NFTracer.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -80,6 +80,22 @@ Yifan Cao, **<u>Qing Shi</u>**, Lue Shen, Kani Chen, Yang Wang, Wei Zeng*, Huami
 
 </div>
 </div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CGF</div><img src='images/publication/ebpvis.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**EBPVis: Visual Analytics of Economic Behavior Patterns in a Virtual Experimental Environment**
+
+Yuhua Liu, Yuming Ma, **<u>Qing Shi</u>**, jin Wen, Wanjun Zheng, Xuanwu Yue, Zhiguang Zhou*, Ye Hang, Wei Chen, Yuwei Meng
+
+*Computer Graphics Forum*, 2024, Accepted.
+
+*IEEE Transactions on Visualization and Computer Graphics*, 2024, Accepted.
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">VIS</div><img src='images/publication/timetuner.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
