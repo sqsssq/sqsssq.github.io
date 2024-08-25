@@ -2,7 +2,7 @@
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-<div class="news-div has-news-scrollbar" style="overflow-y: auto; height: 300px;">
+<div class="news-div has-news-scrollbar" style="overflow-y: auto; height: 280px;">
     <ul class="news-list">
         <!-- <li class="news-item">
             <span class="news-date">[2024/08]</span>
