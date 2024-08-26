@@ -3,7 +3,7 @@
  * @Author: Qing Shi
  * @Date: 2024-08-25 19:26:07
  * @LastEditors: Qing Shi
- * @LastEditTime: 2024-08-25 19:48:55
+ * @LastEditTime: 2024-08-26 23:51:18
 -->
 
 
@@ -19,6 +19,8 @@ Yifan Cao, **<u>Qing Shi</u>**, Lue Shen, Kani Chen, Yang Wang, Wei Zeng*, Huami
 
 *IEEE Transactions on Visualization and Computer Graphics*, 2024, Accepted.
 
+[[Paper](../../assets/file/NFTracer_Tracing_NFT_Impact_Dynamics_in_Transaction-flow_Substitutive_Systems_with_Visual_Analytics.pdf)] [<a href="https://ieeexplore.ieee.org/document/10534787">Link</a>]
+
 </div>
 </div>
 
@@ -28,7 +30,7 @@ Yifan Cao, **<u>Qing Shi</u>**, Lue Shen, Kani Chen, Yang Wang, Wei Zeng*, Huami
 
 **EBPVis: Visual Analytics of Economic Behavior Patterns in a Virtual Experimental Environment**
 
-Yuhua Liu, Yuming Ma, **<u>Qing Shi</u>**, jin Wen, Wanjun Zheng, Xuanwu Yue, Zhiguang Zhou*, Ye Hang, Wei Chen, Yuwei Meng
+Yuhua Liu, Yuming Ma, **<u>Qing Shi</u>**, Jin Wen, Wanjun Zheng, Xuanwu Yue, Zhiguang Zhou*, Ye Hang, Wei Chen, Yuwei Meng
 
 *Computer Graphics Forum*, 2024, Accepted.
 
@@ -45,6 +47,8 @@ Jianing Hao, **<u>Qing Shi</u>**, Yilin Ye, Wei Zeng*
 
 *IEEE Transactions on Visualization and Computer Graphics (Proc. IEEE VIS 2023)*, 2024.
 
+[[Paper](../../assets/file/TimeTuner_Diagnosing_Time_Representations_for_Time-Series_Forecasting_with_Counterfactual_Explanations.pdf)] [[Link](https://ieeexplore.ieee.org/abstract/document/10297593)] [[Website](https://hkust-cival.com/projects/timetuner/)] [[Preview](https://www.youtube.com/watch?v=eCNQTStE0l0)] [[Video](https://www.youtube.com/watch?v=ofNNirHeJeE)] [[Slide](../../assets/file/Vis%202023%20Oral%20Presentation%20Slides.pdf)]
+
 </div>
 </div>
 
@@ -56,6 +60,8 @@ Jianing Hao, **<u>Qing Shi</u>**, Yilin Ye, Wei Zeng*
 Shishi Xiao&#8224;, **<u>Qing Shi</u>**&#8224;, Lingdan Shao, Bo Du, Yang Wang, Qiaomu Shen, Wei Zeng*
 
 *IEEE Transactions on Intelligent Transportation Systems*, 2024, Accepted.
+
+[[Paper](../../assets/file/MetroBUX_A_Topology-Based_Visual_Analytics_for_Bus_Operational_Uncertainty_EXploration.pdf)] [[Link](https://ieeexplore.ieee.org/document/10379518)]
 
 </div>
 </div>
@@ -81,6 +87,8 @@ Liu Yuhua, **<u>Shi Qing</u>**, Zheng Fengling, Xie Wanying, Han Shuhuan, Zhou Z
 
 *Journal of Computer-Aided Design & Computer Graphics*, 2021 (Chinese).
 
+[[Paper](../../assets/file/模拟情境下经济决策及财富关联可视分析_刘玉华.pdf)] [[Link](https://www.jcad.cn/en/article/doi/10.3724/SP.J.1089.2021.18645)]
+
 </div>
 </div>
 
@@ -95,5 +103,5 @@ Yuyou Chen, Xinbo Lu, Ping Yu, Lulu Zeng, Hang Ye, **<u>Qing Shi</u>**, Wenmin G
 
 </div>
 </div> -->
-- [Does Where You are Matter? A Visual Analytics System for COVID-19 Transmission Based on Social Hierarchical Perspective](), Jianing Hao, Xibin Jiang, **<u>Qing Shi</u>**, Wei Zeng\*, *Proceedings of the 16th International Symposium on Visual Information Communication and Interaction (VINCI 2023)*, 2024.
-- [Modulating the Activity of the VMPFC With tDCS Alters the Social Framing Effect](), Yuyou Chen, Xinbo Lu, Ping Yu, Lulu Zeng, Hang Ye, **<u>Qing Shi</u>**, Wenmin Guo\*, *Frontiers in Behavioral Neuroscience*, 2021.
+- [Does Where You are Matter? A Visual Analytics System for COVID-19 Transmission Based on Social Hierarchical Perspective](https://dl.acm.org/doi/10.1145/3615522.3615528), Jianing Hao, Xibin Jiang, **<u>Qing Shi</u>**, Wei Zeng\*, *Proceedings of the 16th International Symposium on Visual Information Communication and Interaction (VINCI 2023)*, 2024.
+- [Modulating the Activity of the VMPFC With tDCS Alters the Social Framing Effect](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8426551/), Yuyou Chen, Xinbo Lu, Ping Yu, Lulu Zeng, Hang Ye, **<u>Qing Shi</u>**, Wenmin Guo\*, *Frontiers in Behavioral Neuroscience*, 2021.
