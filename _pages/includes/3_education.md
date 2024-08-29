@@ -18,9 +18,9 @@
                     <li>
                         Major in Computational Media and Arts
                     </li>
-                    <li>
+                    <!--<li>
                         Advised by Prof. Mingming Fan
-                    </li>
+                    </li>-->
                 </ul>
         </li>
     </ul>
