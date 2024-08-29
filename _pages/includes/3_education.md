@@ -1,11 +1,3 @@
-<!--
- * @Description: 
- * @Author: Qing Shi
- * @Date: 2024-08-25 19:27:48
- * @LastEditors: Qing Shi
- * @LastEditTime: 2024-08-25 20:26:36
--->
-
 # 📖 Educations
 <!-- <div style="display: flex; justify-content: space-between; width: 100%">
     <ul>
@@ -18,9 +10,9 @@
                     <li>
                         Major in Computational Media and Arts
                     </li>
-                    <!--<li>
+                    <li>
                         Advised by Prof. Mingming Fan
-                    </li>-->
+                    </li>
                 </ul>
         </li>
     </ul>
@@ -54,7 +46,7 @@
 - The Hong Kong University of Science and Technology (Guangzhou), *2024.09 - Present*.
   - Master of Philosophy
   - Major in Computational Media and Arts
-  - Advised by Prof. Mingming Fan
+  <!-- - Advised by Prof. Mingming Fan -->
 - Zhejiang University of Finance & Economics, *2018.09 - 2022.06*.
   - Bachelor of Engineering
   - Major in Software Engineering
