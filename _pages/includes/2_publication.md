@@ -3,7 +3,7 @@
  * @Author: Qing Shi
  * @Date: 2024-08-25 19:26:07
  * @LastEditors: Qing Shi
- * @LastEditTime: 2024-08-26 23:51:18
+ * @LastEditTime: 2024-10-01 10:59:36
 -->
 
 
@@ -34,6 +34,7 @@ Yuhua Liu, Yuming Ma, **<u>Qing Shi</u>**, Jin Wen, Wanjun Zheng, Xuanwu Yue, Zh
 
 *Computer Graphics Forum*, 2024, Accepted.
 
+[[Paper](../../assets/file/Computer%20Graphics%20Forum%20-%202024%20-%20Liu%20-%20EBPVis%20%20Visual%20Analytics%20of%20Economic%20Behavior%20Patterns%20in%20a%20Virtual%20Experimental.pdf)] [[Link](https://onlinelibrary.wiley.com/doi/10.1111/cgf.15200?af=R)]
 </div>
 </div>
 
@@ -47,7 +48,7 @@ Jianing Hao, **<u>Qing Shi</u>**, Yilin Ye, Wei Zeng*
 
 *IEEE Transactions on Visualization and Computer Graphics (Proc. IEEE VIS 2023)*, 2024.
 
-[[Paper](../../assets/file/TimeTuner_Diagnosing_Time_Representations_for_Time-Series_Forecasting_with_Counterfactual_Explanations.pdf)] [[Link](https://ieeexplore.ieee.org/abstract/document/10297593)] [[Website](https://hkust-cival.com/projects/timetuner/)] [[Preview](https://www.youtube.com/watch?v=eCNQTStE0l0)] [[Video](https://www.youtube.com/watch?v=ofNNirHeJeE)] [[Slide](../../assets/file/Vis%202023%20Oral%20Presentation%20Slides.pdf)]
+[[Paper](../../assets/file/TimeTuner_Diagnosing_Time_Representations_for_Time-Series_Forecasting_with_Counterfactual_Explanations.pdf)] [[Link](https://ieeexplore.ieee.org/abstract/document/10297593)] [[Website](https://hkust-cival.com/projects/timetuner/)] [[Preview](https://www.youtube.com/watch?v=eCNQTStE0l0)] [[Video](https://www.youtube.com/watch?v=ofNNirHeJeE)] [[Slide](../../assets/file/Vis%202023%20Oral%20Presentation%20Slides.pdf)] [[Arxiv](https://arxiv.org/abs/2307.09916)]
 
 </div>
 </div>
