@@ -3,7 +3,7 @@
  * @Author: Qing Shi
  * @Date: 2024-08-25 19:26:07
  * @LastEditors: Qing Shi
- * @LastEditTime: 2024-10-01 10:59:36
+ * @LastEditTime: 2024-10-01 14:38:21
 -->
 
 
@@ -19,7 +19,7 @@ Yifan Cao, **<u>Qing Shi</u>**, Lue Shen, Kani Chen, Yang Wang, Wei Zeng*, Huami
 
 *IEEE Transactions on Visualization and Computer Graphics*, 2024, Accepted.
 
-[[Paper](../../assets/file/NFTracer_Tracing_NFT_Impact_Dynamics_in_Transaction-flow_Substitutive_Systems_with_Visual_Analytics.pdf)] [<a href="https://ieeexplore.ieee.org/document/10534787">Link</a>]
+[[Paper](../../assets/file/NFTracer_Tracing_NFT_Impact_Dynamics_in_Transaction-flow_Substitutive_Systems_with_Visual_Analytics.pdf)] [<a href="https://ieeexplore.ieee.org/document/10534787">Link</a>] [[Arxiv](https://arxiv.org/abs/2409.15754)]
 
 </div>
 </div>
