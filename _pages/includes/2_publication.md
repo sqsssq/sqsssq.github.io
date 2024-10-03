@@ -3,7 +3,7 @@
  * @Author: Qing Shi
  * @Date: 2024-08-25 19:26:07
  * @LastEditors: Qing Shi
- * @LastEditTime: 2024-10-03 16:08:47
+ * @LastEditTime: 2024-10-03 16:17:59
 -->
 
 
@@ -30,7 +30,7 @@ Yifan Cao, **<u>Qing Shi</u>**, Lue Shen, Kani Chen, Yang Wang, Wei Zeng*, Huami
 
 **EBPVis: Visual Analytics of Economic Behavior Patterns in a Virtual Experimental Environment**
 
-Yuhua Liu, Yuming Ma, **<u>Qing Shi</u>**, Jin Wen, Wanjun Zheng, Xuanwu Yue, Zhiguang Zhou*, Ye Hang, Wei Chen, Yuwei Meng
+Yuhua Liu, Yuming Ma, **<u>Qing Shi</u>**, Jin Wen, Wanjun Zheng, Xuanwu Yue, Ye Hang, Wei Chen, Yuwei Meng, Zhiguang Zhou*
 
 *Computer Graphics Forum*, 2024, Accepted.
 
