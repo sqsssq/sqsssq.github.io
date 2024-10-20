@@ -3,7 +3,7 @@
  * @Author: Qing Shi
  * @Date: 2024-08-25 19:26:07
  * @LastEditors: Qing Shi
- * @LastEditTime: 2024-10-03 16:17:59
+ * @LastEditTime: 2024-10-20 11:41:04
 -->
 
 
@@ -48,7 +48,7 @@ Jianing Hao, **<u>Qing Shi</u>**, Yilin Ye, Wei Zeng*
 
 *IEEE Transactions on Visualization and Computer Graphics (Proc. IEEE VIS 2023)*, 2024.
 
-[[Paper](../../assets/file/TimeTuner_Diagnosing_Time_Representations_for_Time-Series_Forecasting_with_Counterfactual_Explanations.pdf)] [[Link](https://ieeexplore.ieee.org/abstract/document/10297593)] [[Website](https://hkust-cival.com/projects/timetuner/)] [[Preview](https://www.youtube.com/watch?v=eCNQTStE0l0)] [[Video](https://www.youtube.com/watch?v=ofNNirHeJeE)] [[Slide](../../assets/file/Vis%202023%20Oral%20Presentation%20Slides.pdf)] [[Arxiv](https://arxiv.org/abs/2307.09916)]
+[[Paper](../../assets/file/TimeTuner_Diagnosing_Time_Representations_for_Time-Series_Forecasting_with_Counterfactual_Explanations.pdf)] [[Link](https://ieeexplore.ieee.org/abstract/document/10297593)] [[Website](https://hkust-cival.com/projects/timetuner/)] [[Preview](https://www.youtube.com/watch?v=eCNQTStE0l0)] [[Oral](https://www.youtube.com/watch?v=ofNNirHeJeE)] [[Slide](../../assets/file/Vis%202023%20Oral%20Presentation%20Slides.pdf)] [[Arxiv](https://arxiv.org/abs/2307.09916)] [[Code](https://github.com/CatherineHao/TimeTuner)]
 
 </div>
 </div>

@@ -46,7 +46,7 @@
 - The Hong Kong University of Science and Technology (Guangzhou), *2024.09 - Present*.
   - Master of Philosophy
   - Major in Computational Media and Arts
-  <!-- - Advised by Prof. Mingming Fan -->
+  - Advised by Prof. Mingming Fan
 - Zhejiang University of Finance & Economics, *2018.09 - 2022.06*.
   - Bachelor of Engineering
   - Major in Software Engineering
