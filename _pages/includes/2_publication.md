@@ -1,16 +1,17 @@
 <!--
  * @Description: 
  * @Author: Qing Shi
- * @Date: 2024-08-25 19:26:07
+ * @Date: 2024-09-20 12:07:46
  * @LastEditors: Qing Shi
- * @LastEditTime: 2024-10-20 11:41:04
+ * @LastEditTime: 2024-11-22 15:48:52
 -->
 
-
 # 📝 Publications 
+
+
 † - Equal Contribution   * - Corresponding Author(s)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG</div><img src='images/publication/NFTracer.jpg' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG</div><img src='images/publication/NFTracer.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **NFTracer: Tracing NFT Impact Dynamics In Transaction-Flow Substitutive Systems With Visual Analytics**
@@ -65,7 +66,7 @@ Shishi Xiao&#8224;, **<u>Qing Shi</u>**&#8224;, Lingdan Shao, Bo Du, Yang Wang, 
 [[Paper](../../assets/file/MetroBUX_A_Topology-Based_Visual_Analytics_for_Bus_Operational_Uncertainty_EXploration.pdf)] [[Link](https://ieeexplore.ieee.org/document/10379518)]
 
 </div>
-</div>
+</div> -->
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">VINCI</div><img src='images/publication/vinci_cover.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -79,7 +80,7 @@ Jianing Hao, Xibin Jiang, **<u>Qing Shi</u>**, Wei Zeng*
 </div>
 </div> -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">J. CAD&CG</div><img src='images/publication/EcoVis.jpeg' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">J. CAD&CG</div><img src='images/publication/EcoVis.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Visual Analysis of Economic Decision-Making and Wealth Change under Simulated Situation**
@@ -91,7 +92,7 @@ Liu Yuhua, **<u>Shi Qing</u>**, Zheng Fengling, Xie Wanying, Han Shuhuan, Zhou Z
 [[Paper](../../assets/file/模拟情境下经济决策及财富关联可视分析_刘玉华.pdf)] [[Link](https://www.jcad.cn/en/article/doi/10.3724/SP.J.1089.2021.18645)]
 
 </div>
-</div>
+</div> -->
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">FBN</div><img src='images/publication/tdcs.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -104,5 +105,6 @@ Yuyou Chen, Xinbo Lu, Ping Yu, Lulu Zeng, Hang Ye, **<u>Qing Shi</u>**, Wenmin G
 
 </div>
 </div> -->
-- [Does Where You are Matter? A Visual Analytics System for COVID-19 Transmission Based on Social Hierarchical Perspective](https://dl.acm.org/doi/10.1145/3615522.3615528), Jianing Hao, Xibin Jiang, **<u>Qing Shi</u>**, Wei Zeng\*, *Proceedings of the 16th International Symposium on Visual Information Communication and Interaction (VINCI 2023)*, 2024.
-- [Modulating the Activity of the VMPFC With tDCS Alters the Social Framing Effect](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8426551/), Yuyou Chen, Xinbo Lu, Ping Yu, Lulu Zeng, Hang Ye, **<u>Qing Shi</u>**, Wenmin Guo\*, *Frontiers in Behavioral Neuroscience*, 2021.
+
+<!-- - [Does Where You are Matter? A Visual Analytics System for COVID-19 Transmission Based on Social Hierarchical Perspective](https://dl.acm.org/doi/10.1145/3615522.3615528), Jianing Hao, Xibin Jiang, **<u>Qing Shi</u>**, Wei Zeng\*, *Proceedings of the 16th International Symposium on Visual Information Communication and Interaction (VINCI 2023)*, 2024.
+- [Modulating the Activity of the VMPFC With tDCS Alters the Social Framing Effect](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8426551/), Yuyou Chen, Xinbo Lu, Ping Yu, Lulu Zeng, Hang Ye, **<u>Qing Shi</u>**, Wenmin Guo\*, *Frontiers in Behavioral Neuroscience*, 2021. -->

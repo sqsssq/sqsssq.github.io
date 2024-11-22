@@ -1,3 +1,10 @@
+<!--
+ * @Description: 
+ * @Author: Qing Shi
+ * @Date: 2024-09-20 12:07:46
+ * @LastEditors: Qing Shi
+ * @LastEditTime: 2024-11-22 15:49:34
+-->
 # 🔥 News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
@@ -8,7 +15,7 @@
             <span class="news-date">[2024/08]</span>
             <span class="news-content"></span>
         </li> -->
-        <li class="news-item">
+        <!-- <li class="news-item">
             <span class="news-date">[2024/08]</span>
             <span class="news-content">🎉Our paper <span style="font-style: italic;">'EBPVis: Visual Analytics of Economic Behavior Patterns in a Virtual Experimental Environment'</span>&nbsp; is accepted to CGF!</span>
         </li>
@@ -39,7 +46,7 @@
         <li class="news-item">
             <span class="news-date">[2022/07]</span>
             <span class="news-content">Starting my visualization journey as a Research Assistant @ HKUST-CIVAL with Prof. Wei Zeng!</span>
-        </li>
+        </li> -->
         <li class="news-item">
             <span class="news-date">[2022/06]</span>
             <span class="news-content">🎉I obtained my B.Eng. @ZUFE!</span>
