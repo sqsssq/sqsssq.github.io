@@ -1,15 +1,8 @@
-<!--
- * @Description: 
- * @Author: Qing Shi
- * @Date: 2024-09-20 12:07:46
- * @LastEditors: Qing Shi
- * @LastEditTime: 2024-11-22 15:49:34
--->
 # 🔥 News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-<div class="news-div has-news-scrollbar" style="overflow-y: auto; height: 280px;">
+<div class="news-div has-news-scrollbar" style="overflow-y: auto; max-height: 280px;">
     <ul class="news-list">
         <!-- <li class="news-item">
             <span class="news-date">[2024/08]</span>

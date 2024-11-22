@@ -1,10 +1,3 @@
-<!--
- * @Description: 
- * @Author: Qing Shi
- * @Date: 2024-09-20 12:07:46
- * @LastEditors: Qing Shi
- * @LastEditTime: 2024-11-22 15:50:09
--->
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
