@@ -43,10 +43,14 @@
     </div>
     
 </div> -->
-- The Hong Kong University of Science and Technology (Guangzhou), *2024.09 - Present*.
+- The Hong Kong University of Science and Technology (Guangzhou), *2026.09 - Present*.
+  - Doctor of Philosophy
+  - Major in Computational Media and Arts
+  - Advised by Prof. Mingming Fan and Prof. Tai-Kai Ng
+- The Hong Kong University of Science and Technology (Guangzhou), *2024.09 - 2026.10*.
   - Master of Philosophy
   - Major in Computational Media and Arts
-  - Advised by Prof. Mingming Fan
+  - Advised by Prof. Mingming Fan and Prof. Weikai Yang
 - Zhejiang University of Finance & Economics, *2018.09 - 2022.06*.
   - Bachelor of Engineering
   - Major in Software Engineering

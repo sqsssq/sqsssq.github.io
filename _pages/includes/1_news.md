@@ -4,10 +4,10 @@
 
 <div class="news-div has-news-scrollbar" style="overflow-y: auto; max-height: 280px;">
     <ul class="news-list">
-        <!-- <li class="news-item">
-            <span class="news-date">[2024/08]</span>
-            <span class="news-content"></span>
-        </li> -->
+        <li class="news-item">
+            <span class="news-date">[2026/05]</span>
+            <span class="news-content">I passed my M.Phil. Thesis Defense with a minor revision.</span>
+        </li>
         <!-- <li class="news-item">
             <span class="news-date">[2024/08]</span>
             <span class="news-content">🎉Our paper <span style="font-style: italic;">'EBPVis: Visual Analytics of Economic Behavior Patterns in a Virtual Experimental Environment'</span>&nbsp; is accepted to CGF!</span>
