@@ -1,4 +1,26 @@
 <script src="assets/js/main.min.js"></script>
 
+<script src="https://unpkg.com/typed.js@3.0.0/dist/typed.umd.js"></script>
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    new Typed("#typed-words", {
+      strings: [
+        "AI for Education",
+        "Human-AI Collaboration",
+        "Visualization and Visual Analytics",
+        "Human-Centered Interactive Systems"
+      ],
+      typeSpeed: 80,
+      backSpeed: 45,
+      backDelay: 2200,
+      startDelay: 500,
+      smartBackspace: true,
+      loop: true,
+      showCursor: true,
+      cursorChar: "|"
+    });
+  });
+</script>
+
 {% include analytics.html %}
 {% include fetch_google_scholar_stats.html %}

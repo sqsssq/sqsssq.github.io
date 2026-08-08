@@ -26,6 +26,9 @@ My research interests focus on designing human-centered interactive systems that
 - **Human-Computer Interaction and Human-AI Collaboration:** Human-centered systems that support sensemaking, collaboration, decision-making, and agency in AI-assisted workflows.
 - **Visualization and Visual Analytics:** Visual representations and interactive analytics systems for understanding complex cognitive, social, financial, and behavioral data.
 
-> I am looking for co-authors and collaborators. If you are interested in my research directions, please feel free to contact me at:
->
-> **qshi118 (at) connect (dot) hkust-gz (dot) edu (dot) cn**
+<p class="typing-words-line">I work on <span id="typed-words" class="typing-words" aria-live="polite">human-centered interactive systems</span>.</p>
+
+<blockquote class="collaboration-cta">
+  <p>I am looking for co-authors and collaborators. If you are interested in my research directions, please feel free to contact me at:</p>
+  <p><strong>qshi118 (at) connect (dot) hkust-gz (dot) edu (dot) cn</strong></p>
+</blockquote>
